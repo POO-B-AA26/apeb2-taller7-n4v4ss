@@ -22,9 +22,9 @@ public class Problema_4_EjecutorTrabajador {
         t3.setVentas(5000.0);
         t3.setJefe(jefe);
 
-        System.out.println("Nómina de " + t1.getNombre() + ": $" + t1.calcularSueldo());
-        System.out.println("Nómina de " + t2.getNombre() + ": $" + t2.calcularSueldo());
-        System.out.println("Nómina de " + t3.getNombre() + ": $" + t3.calcularSueldo());
+        System.out.println("Nomina de " + t1.getNombre() + ": $" + t1.calcularSueldo());
+        System.out.println("Nomina de " + t2.getNombre() + ": $" + t2.calcularSueldo());
+        System.out.println("Nomina de " + t3.getNombre() + ": $" + t3.calcularSueldo());
     }
 }
 
